@@ -1,4 +1,4 @@
-﻿using Bookings.Domain.Closing.Enums;
+﻿using Bookings.Domain.Closings.Enums;
 
 namespace Bookings.Domain.Closings.ValueObjects;
 
