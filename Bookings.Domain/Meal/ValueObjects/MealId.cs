@@ -1,4 +1,4 @@
-﻿namespace Bookings.Domain.Meal.ValueObjects;
+﻿namespace Bookings.Domain.Meals.ValueObjects;
 
 public sealed class MealId : EntityId
 {

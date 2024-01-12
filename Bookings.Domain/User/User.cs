@@ -1,7 +1,8 @@
-﻿using Bookings.Domain.Restaurant.ValueObjects;
-using Bookings.Domain.User.ValueObjects;
+﻿using Bookings.Domain.Restaurants;
+using Bookings.Domain.Restaurants.ValueObjects;
+using Bookings.Domain.Users.ValueObjects;
 
-namespace Bookings.Domain.User;
+namespace Bookings.Domain.Users;
 
 public sealed class User : AggregateRoot<UserId>
 {
@@ -14,6 +15,7 @@ public sealed class User : AggregateRoot<UserId>
     public List<Restaurant> Restaurants { get; private set; } = new();
 
     // Create
-    // AddRestaurant
-    // DeleteRestaurant
+    // Create Restaurant
+    // Add Restaurant
+    // Delete Restaurant
 }

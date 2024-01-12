@@ -1,4 +1,4 @@
-﻿namespace Bookings.Domain.Closing.ValueObjects;
+﻿namespace Bookings.Domain.Closings.ValueObjects;
 
 public sealed class ClosingId : EntityId
 {

@@ -1,4 +1,4 @@
-﻿namespace Bookings.Domain.Restaurant.ValueObjects;
+﻿namespace Bookings.Domain.Restaurants.ValueObjects;
 
 public sealed class RestaurantId : EntityId
 {

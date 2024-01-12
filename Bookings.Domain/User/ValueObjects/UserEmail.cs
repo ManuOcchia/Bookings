@@ -1,6 +1,6 @@
 ﻿using System.Text.RegularExpressions;
 
-namespace Bookings.Domain.User.ValueObjects;
+namespace Bookings.Domain.Users.ValueObjects;
 
 public sealed class UserEmail : ValueObject
 {

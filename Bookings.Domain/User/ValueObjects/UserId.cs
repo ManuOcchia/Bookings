@@ -1,4 +1,4 @@
-﻿namespace Bookings.Domain.User.ValueObjects;
+﻿namespace Bookings.Domain.Users.ValueObjects;
 
 public sealed class UserId : EntityId
 {

@@ -1,4 +1,4 @@
-﻿namespace Bookings.Domain.Opening.ValueObjects;
+﻿namespace Bookings.Domain.Openings.ValueObjects;
 
 public sealed class OpeningId : EntityId
 {
